@@ -1,0 +1,77 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Traveler\n"
+"POT-Creation-Date: 2019-03-18 09:28+0700\n"
+"PO-Revision-Date: 2017-04-15 08:58+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__(;esc_html__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: inc/paygate.php:53
+msgid "Traveler Notice:"
+msgstr ""
+
+#: inc/paygate.php:55
+#, php-format
+msgid "<strong>PayGate</strong> require %s version %s or above. Your current is %s"
+msgstr ""
+
+#: inc/paygate.php:55
+msgid "Traveler Code"
+msgstr ""
+
+#: inc/paygate.php:58
+msgid "Learn how to update it"
+msgstr ""
+
+#: inc/paygate.php:60 inc/paygate.php:62
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/paygate.php:98
+msgid "Can not get PayGate Authorise URL."
+msgstr ""
+
+#: inc/paygate.php:124 inc/paygate.php:215
+msgid "Traveler Booking"
+msgstr ""
+
+#: inc/paygate.php:257
+msgid "Merchant Id"
+msgstr ""
+
+#: inc/paygate.php:260
+msgid "Your Merchant Id"
+msgstr ""
+
+#: inc/paygate.php:265
+msgid "Merchant Key"
+msgstr ""
+
+#: inc/paygate.php:268
+msgid "Your Merchant Key"
+msgstr ""
+
+#: inc/paygate.php:273
+msgid "Enable Sandbox"
+msgstr ""
+
+#: inc/paygate.php:277
+msgid "Allow you to enable sandbox mod for testing"
+msgstr ""
+
+#: views/paygate.php:11
+msgid "Take payments via PayGate (redirect method)."
+msgstr ""
