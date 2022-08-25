@@ -1,7 +1,7 @@
 # PayWeb_Traveler
 ## PayGate PayWeb plugin v1.0.0 for Traveler Theme v2.9.3
 
-This is the PayGate PayWeb3 plugin for Traveler Theme. Please feel free to contact the PayGate support team at support@paygate.co.za should you require any assistance.
+This is the PayGate PayWeb3 plugin for Traveler Theme. Please feel free to contact the PayGate support team at supportsa@dpogroup.com should you require any assistance.
 
 ## Installation
 Please navigate to the [releases page](https://github.com/PayGate/PayWeb_Traveler/releases), download the latest release (v1.0.0) and unzip. You will them be able to follow the integration guide PDF which is included in the zip.
